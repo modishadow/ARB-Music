@@ -1,0 +1,6 @@
+owner=592494804005552158
+prefix=Arb 
+game=Break | !play
+stayinchannel=true
+songinstatus=false
+token=NjMzNDI2NzUyNjQzMDA2NTA3.XaTzYA.AiOVnI51mn6JOMmuMzEYtTQzFos
